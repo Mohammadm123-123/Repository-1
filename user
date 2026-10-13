@@ -1,0 +1,4 @@
+/bin/bash create_users.sh
+cat/etc/passwd
+/bin/bash user
+cat/etc/passwd
